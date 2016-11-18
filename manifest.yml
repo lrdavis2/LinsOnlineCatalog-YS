@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: stage1.mybluemix.net
   name: LinsOnlineCatalog
-  host: online-catalog
+  host: linsonlinecatalog
   disk_quota: 1024M
